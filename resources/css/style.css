@@ -29,3 +29,7 @@ p {
 img {
   align: center;
 }
+
+.footer {
+  text-align: right !important;
+}
